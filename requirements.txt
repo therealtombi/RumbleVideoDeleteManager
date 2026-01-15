@@ -1,0 +1,8 @@
+undetected-chromedriver
+beautifulsoup4
+pillow
+pygame
+setuptools
+flask
+requests
+selenium
