@@ -1,10 +1,10 @@
-# 🚀 Rumble Content Manager
+# 🚀 Rumble Video Delete Manager
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?logo=python)
 ![Selenium](https://img.shields.io/badge/Automation-Selenium-orange?logo=selenium)
 
-**Rumble Content Manager** is a powerful, multithreaded desktop application designed to help creators manage their Rumble video library efficiently. It solves the problem of slow, manual video deletion by automating the process with a clean, responsive GUI.
+**Rumble Video Delete Manager** is a powerful, multithreaded desktop application designed to help creators manage their Rumble video library efficiently. It solves the problem of slow, manual video deletion by automating the process with a clean, responsive GUI.
 
 Unlike basic scrapers, this tool uses a **"Search & Destroy"** architecture to maintain stability even when scanning thousands of videos, avoiding UI freezes and memory crashes.
 
